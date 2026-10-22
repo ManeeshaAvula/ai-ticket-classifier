@@ -1,0 +1,22 @@
+# Render blueprint: FastAPI backend (Docker) + React frontend (static site).
+# Deploy via Render Dashboard -> New -> Blueprint, or create the two
+# services manually with these settings.
+services:
+  - type: web
+    name: ai-ticket-classifier-api
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: ALLOWED_ORIGINS
+        value: "https://ai-ticket-classifier-web.onrender.com,http://localhost:5173"
+
+  - type: web
+    name: ai-ticket-classifier-web
+    env: static
+    plan: free
+    buildCommand: "cd frontend && npm install && npm run build"
+    staticPublishPath: ./frontend/dist
+    envVars:
+      - key: VITE_API_URL
+        value: "https://ai-ticket-classifier-api.onrender.com"
