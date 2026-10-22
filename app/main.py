@@ -11,6 +11,8 @@ Endpoints:
     GET  /stats           Count of classified tickets per label
 """
 
+import os
+
 from fastapi import Depends, FastAPI, HTTPException, Query, Request
 from fastapi.exceptions import RequestValidationError
 from fastapi.middleware.cors import CORSMiddleware
@@ -39,10 +41,23 @@ app = FastAPI(
     version="1.0.0",
 )
 
-# The React dev server runs on a different port; allow it during development.
+# The React frontend runs on a different origin; allow it in development
+# (Vite dev server) and in production (the deployed static site). Override
+# with the ALLOWED_ORIGINS env var (comma-separated) when needed.
+_default_origins = [
+    "http://localhost:5173",
+    "http://127.0.0.1:5173",
+    "https://ai-ticket-classifier-web.onrender.com",
+]
+_env_origins = os.environ.get("ALLOWED_ORIGINS", "")
+ALLOWED_ORIGINS = (
+    [origin.strip() for origin in _env_origins.split(",") if origin.strip()]
+    if _env_origins.strip()
+    else _default_origins
+)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://127.0.0.1:5173"],
+    allow_origins=ALLOWED_ORIGINS,
     allow_methods=["*"],
     allow_headers=["*"],
 )
