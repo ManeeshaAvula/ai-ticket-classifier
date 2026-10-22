@@ -1,0 +1,12 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+sqlalchemy>=2.0
+pydantic>=2.6
+scikit-learn>=1.4
+pandas>=2.0
+joblib>=1.3
+psycopg2-binary>=2.9
+
+# Test dependencies (TestClient is built on httpx)
+pytest>=8.0
+httpx>=0.27

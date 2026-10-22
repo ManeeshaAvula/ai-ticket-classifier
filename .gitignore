@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Trained model artifacts (regenerate with: python train_model.py)
+models/*.joblib
+models/metrics.json
+
+# Local SQLite database
+*.db
+
+# Node / frontend
+node_modules/
+frontend/dist/
+
+# Misc
+.DS_Store
+.env
+.pytest_cache/
