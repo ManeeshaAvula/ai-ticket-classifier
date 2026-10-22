@@ -1,0 +1,451 @@
+text,label
+"Hello, Someone changed the email address on my account without my permission. I cannot access my account at all now. Please help.",account_access
+"Hi there, The promo code SPRING25 did not apply at checkout and I was charged the full price of $19. Please adjust my invoice.",billing
+"Hi there, I need to change the email address associated with my account from my old work email to a new one before I lose access.",account_access
+"Hello, Every time I save my report, the app logs me out and I lose my changes. This has happened four times today.",technical_support
+Your invoice says I owe for 15 user seats but we only have 9 people on the team. The extra seats appeared after the last renewal.,billing
+"The gift I ordered for a birthday on March 14 still has not arrived, although I ordered it ten days ago with standard delivery. Thanks in advance.",shipping
+"The CSV import maps the date column wrong, importing 03/04/2026 as March 4 instead of April 3. Our locale is day-first.",technical_support
+I read about your company in an article and wanted to ask whether you have a partnership or reseller programme.,general
+The API returns a 500 error when I POST to the /reports endpoint with more than 50 items. Smaller requests work. Please help.,technical_support
+Could you confirm whether your service is suitable for a single user? Most of your marketing seems aimed at large teams.,general
+Do you have a community forum or user group where I can ask other users how they set up their workflows? Thanks in advance.,general
+"Hello, What are your customer support opening hours over the holiday period? I could not find them on your website.",general
+"Good morning, Is there a discount for students or educational institutions? I teach at a university and would like to use your tool in class. Please advise.",general
+"Hi, The courier attempted delivery while I was home all day. Now they want me to collect it from a depot 20 miles away. Thank you!",shipping
+"Good morning, My return was received by your warehouse on April 2 according to tracking, but I have heard nothing about my refund or exchange.",shipping
+"Hello support team, I need to deactivate the account of an employee who left, but I do not have the option in the admin panel. Please advise.",account_access
+I downgraded from Business to the free tier last week but was still charged $29.99 today. Please refund this. Please help.,billing
+"Hello, My account has been locked after too many login attempts, but I only entered my password once. Please unlock it. Please advise.",account_access
+"Hi there, Is there a way to try the premium features before buying? A short trial would help me convince my manager. Thanks in advance.",general
+"Good morning, I would like to update the contact person for our account's correspondence. Nothing is wrong, we just reorganised. Please help.",general
+"Hello support team, I downgraded from Team to the free tier last week but was still charged $79 today. Please refund this. Thank you!",billing
+"Hello, Customs has held my international shipment for two weeks. Do I need to provide any documents to release it? Thanks in advance.",shipping
+"Hello, The API returns a 500 error when I POST to the /reports endpoint with more than 50 items. Smaller requests work.",technical_support
+Do you offer refunds if I cancel in the middle of a billing cycle? I was charged $79 on the 28th of last month and want to cancel. Please help.,billing
+My package smells strongly of smoke and the outer box is scorched. I have not opened it. What should I do?,shipping
+"Hello support team, Your website is extremely slow today. Pages take over 30 seconds to load on Edge, while other sites work fine.",technical_support
+"Hi there, The address on my shipping label is missing the apartment number, so the courier cannot complete the delivery. Any help would be appreciated.",shipping
+Can I suggest a feature? It would be great if the approval workflow could also handle recurring schedules. Please help.,general
+"Good morning, The API returns a 500 error when I POST to the /reports endpoint with more than 50 items. Smaller requests work.",technical_support
+After entering my password the page just refreshes and asks for it again. This happens on Safari and the app.,account_access
+The discount from our nonprofit status was removed from this month's bill. We sent the updated certificate in January and it was confirmed.,billing
+"Hi there, Do you have a community forum or user group where I can ask other users how they set up their workflows? Thanks in advance.",general
+Why did my subscription price increase from $120 to $149 without any notice? I never agreed to a price change. Please help.,billing
+Is there a discount for students or educational institutions? I teach at a university and would like to use your tool in class.,general
+Please stop charging my old card ending in 3356. I updated my payment method but the old card was billed $79.,billing
+"Good morning, I paid extra for express delivery on order #58204 and it arrived four days late. I would like the shipping fee refunded.",shipping
+"Hi, The desktop app crashes every time I try to open the reports page on my Samsung Galaxy S23. It started after the update on April 2. Thanks.",technical_support
+"I was promised a credit of 75 dollars by your support agent last month for the outage, but this month's invoice does not show any credit.",billing
+"Hello support team, My return was received by your warehouse on May 6 according to tracking, but I have heard nothing about my refund or exchange.",shipping
+"Good morning, I cannot log in since I got a new phone. The authenticator app was on my old device and I no longer have access to it.",account_access
+"Hi, I keep getting payment reminder emails saying my card was declined, but the charge of $79 went through on last Friday. Thanks in advance.",billing
+Do you have a user guide or documentation for the time tracking feature? I want to learn how to use it properly.,general
+Please send me your media kit and brand assets. I write for a small business magazine and we are featuring tools like yours.,general
+"I ordered two of the notebook set and only one was in the box, though the packing slip says two were shipped. Thanks in advance.",shipping
+"Hi there, The password reset link says it has expired even though I clicked it within two minutes of receiving the email.",account_access
+Please update the billing address on my account and reissue last month's invoice with the new details. Any help would be appreciated.,billing
+"Hi there, Uploads fail at around 90 percent with the message 'network error', even on a wired connection. Files are about 40 MB. Please advise.",technical_support
+"Hi there, I am trying to log in with Okta single sign-on and it loops back to the login page every time.",account_access
+I am doing research for my thesis on SaaS onboarding and wondered if someone from your team would answer a few questions.,general
+"Hello, My login works on the website but the mobile app says my credentials are invalid. It is the same password. Please help.",account_access
+"Hi there, The delivery driver left my package in the rain by the gate instead of under the porch. The contents are water damaged. Please advise.",shipping
+"Hi there, I need to return the phone case from order #77410 but the returns portal says my order number is not recognised.",shipping
+"Hi there, I need to deactivate the account of an employee who left, but I do not have the option in the admin panel. Please help.",account_access
+"Hi, Can I schedule my delivery for a specific day? Order #61039 keeps being attempted while I am at work. Please help.",shipping
+I signed up with Apple ID using the hide-my-email feature and now I cannot change my password because I do not know the relay address.,account_access
+"Hello, Can I schedule my delivery for a specific day? Order #77410 keeps being attempted while I am at work. Please advise.",shipping
+"Hi, The gift I ordered for a birthday on March 14 still has not arrived, although I ordered it ten days ago with standard delivery. Any help would be appreciated.",shipping
+Undo (Ctrl+Z) deletes the entire paragraph instead of the last action in the new editor. I lost a full page of notes this way.,technical_support
+"Hi there, My login works on the website but the mobile app says my credentials are invalid. It is the same password. Thank you!",account_access
+"Hello support team, What new features are on your roadmap for this year? We are evaluating tools for a long-term commitment. Thanks.",general
+"Good morning, The mobile app drains my battery in the background. It used 38 percent overnight on my iPhone 15 without being opened.",technical_support
+"Hi there, What are your customer support opening hours over the holiday period? I could not find them on your website. Thanks in advance.",general
+The delivery driver left my package in the rain by the gate instead of under the porch. The contents are water damaged. Thanks.,shipping
+"Hello, I am trying to log in with Google single sign-on and it loops back to the login page every time. Thanks.",account_access
+Can I suggest a feature? It would be great if the template gallery could also handle recurring schedules. Any help would be appreciated.,general
+"I keep getting logged out every few minutes, even mid-task. Other colleagues on the same network do not have this issue. Thank you!",account_access
+"Hello support team, The shared inbox feature stopped working after the latest update. Clicking the button does nothing at all. Thank you!",technical_support
+"Hello support team, Is there a discount for students or educational institutions? I teach at a university and would like to use your tool in class. Thank you!",general
+"Good morning, My order #90255 was marked as 'out for delivery' three days in a row and each evening it goes back to the depot. Thanks.",shipping
+I was billed for an add-on I never purchased. There is a line item for €45 labelled 'premium add-on' on my latest invoice.,billing
+"Hello support team, The estimated delivery date keeps moving. It was April 19, then the following week, and now no date is shown at all. Thanks in advance.",shipping
+"Hi there, Can I switch my billing from monthly to yearly? I want to know the exact total before you charge my card. Please advise.",billing
+Notifications stopped arriving on my Samsung Galaxy S23 yesterday. App permissions are all enabled and battery optimisation is off. Please help.,technical_support
+"Hello, Can you recommend which plan would suit a freelance designer working alone? I do not need team features. Thanks.",general
+"Hi, What are your customer support opening hours over the holiday period? I could not find them on your website.",general
+"Hi there, After entering my password the page just refreshes and asks for it again. This happens on Chrome and the app. Please help.",account_access
+Is your service available in Canada? Our team is distributed and I want to check before signing up. Thank you!,general
+"Hi there, My credit card shows a charge of $79 from you, but I cancelled my subscription on April 2. Why was I still billed? Please help.",billing
+"Hi, I am interested in a career at your company. Where can I find your current job openings and application process? Thanks in advance.",general
+"Every Monday morning I have to reset my password because the system says it expired, even though I changed it the Friday before.",account_access
+I forgot my password and the reset email never arrives. I have checked my spam folder several times since the 12th. Thanks in advance.,account_access
+My files are not syncing between my laptop and my phone. The desktop app shows 'sync pending' for two days now. Thanks.,technical_support
+Why did my subscription price increase from £59 to £79 without any notice? I never agreed to a price change. Please help.,billing
+"Hi, I paid $19 by bank transfer on May 6 but my account still shows an overdue balance. Please apply my payment. Thank you!",billing
+Notifications stopped arriving on my Samsung Galaxy S23 yesterday. App permissions are all enabled and battery optimisation is off.,technical_support
+There is an unknown charge of $49 from your company on my corporate card. I need an itemised receipt to expense it.,billing
+Can you tell me more about the differences between the Starter and Business plans? I am deciding which one fits our team.,general
+Part of my order is missing. The phone case arrived but the desk organiser that was in the same order never showed up.,shipping
+"Hello, I paid $120 by bank transfer on last Tuesday but my account still shows an overdue balance. Please apply my payment.",billing
+"Hi, The time tracking feature stopped working after the latest update. Clicking the button does nothing at all. Please advise.",technical_support
+"Hi, Two-factor codes by SMS arrive 15 minutes late, by which time they have expired. The authenticator app works fine. Any help would be appreciated.",technical_support
+"My card was charged in USD but my plan is priced in EUR, and the conversion left me paying about 8 percent more than the listed price.",billing
+"When I export my data to CSV, the file is empty even though the dashboard shows over 200 records. Please advise.",technical_support
+"Hi there, The tracking page says my parcel was delivered yesterday, but nothing arrived and my neighbours do not have it either.",shipping
+"Hello support team, I would like to update the contact person for our account's correspondence. Nothing is wrong, we just reorganised.",general
+My files are not syncing between my laptop and my phone. The desktop app shows 'sync pending' for two days now. Please help.,technical_support
+"Hello, My credit card shows a charge of $49 from you, but I cancelled my subscription on March 14. Why was I still billed?",billing
+"Good morning, Customs has held my international shipment for two weeks. Do I need to provide any documents to release it? Thanks.",shipping
+"Hi, My order #61039 was marked as 'out for delivery' three days in a row and each evening it goes back to the depot. Thank you!",shipping
+Push notifications arrive in batches of twenty at 3am instead of when events happen. This started after I updated to version 8.2.,technical_support
+"Good morning, How large can my team be on the free plan before we need to upgrade? We are a small nonprofit with volunteers. Thanks in advance.",general
+"Hello support team, The integration with Google Calendar keeps disconnecting. I have to reauthorise it every morning. Thanks in advance.",technical_support
+"Hi there, I forgot my password and the reset email never arrives. I have checked my spam folder several times since April 2.",account_access
+"Hello, My return was received by your warehouse on April 2 according to tracking, but I have heard nothing about my refund or exchange.",shipping
+Do you have a community forum or user group where I can ask other users how they set up their workflows?,general
+The webhook deliveries to our server stopped on Friday. Your status page says all systems operational but the delivery log shows timeouts.,technical_support
+"Hi, Is there a way to try the premium features before buying? A short trial would help me convince my manager. Any help would be appreciated.",general
+"Hi there, Drag and drop stopped working in the board view. I can only move cards using the menu since the the 12th update. Please advise.",technical_support
+"Hi there, I am trying to log in with Microsoft single sign-on and it loops back to the login page every time.",account_access
+"Hi, I just wanted to say your approval workflow feature is excellent. It has saved our team hours every week. Keep it up! Any help would be appreciated.",general
+"Hello support team, Do you offer onboarding or training sessions for new teams? We are rolling this out to about 30 people. Thanks.",general
+"Hello support team, The courier attempted delivery while I was home all day. Now they want me to collect it from a depot 20 miles away. Any help would be appreciated.",shipping
+"Hi there, Your website is extremely slow today. Pages take over 30 seconds to load on Firefox, while other sites work fine. Please help.",technical_support
+I am writing a review of tools in your category for our company blog. Could you share your latest product information sheet? Please help.,general
+"Hi there, Can I suggest a feature? It would be great if the time tracking could also handle recurring schedules. Please advise.",general
+"Hi, My account has been locked after too many login attempts, but I only entered my password once. Please unlock it. Please help.",account_access
+"Hi, What are your customer support opening hours over the holiday period? I could not find them on your website. Thanks.",general
+"Hi, I paid extra for express delivery on order #61039 and it arrived four days late. I would like the shipping fee refunded. Please help.",shipping
+"Hello support team, How do I export all of my data if I decide to leave the platform in the future? I like to know before committing. Please help.",general
+My session was hijacked — I see logins from another country in my security log and password changes I did not make. I changed the password but the other sessions remain active.,account_access
+"Hi, I cannot log in since I got a new phone. The authenticator app was on my old device and I no longer have access to it. Thanks.",account_access
+The courier delivered my parcel to the wrong street entirely — the photo proof of delivery shows a house I do not recognise. Order 88123.,shipping
+"Hi, What new features are on your roadmap for this year? We are evaluating tools for a long-term commitment.",general
+"Hi, After entering my password the page just refreshes and asks for it again. This happens on Chrome and the app.",account_access
+"Good morning, I am interested in a career at your company. Where can I find your current job openings and application process?",general
+I lost my recovery codes when my laptop was stolen. How can I regain access to my account securely? Please help.,account_access
+"Hi, How do I get a refund for the annual plan? I bought it on the 28th of last month and have not used the service since.",billing
+"Good morning, After entering my password the page just refreshes and asks for it again. This happens on Chrome and the app. Any help would be appreciated.",account_access
+My shipment has been stuck at the Phoenix distribution centre since last Tuesday according to tracking. Is it lost? Thanks in advance.,shipping
+Can you tell me more about the differences between the Pro and Business plans? I am deciding which one fits our team.,general
+"Your website is extremely slow today. Pages take over 30 seconds to load on Firefox, while other sites work fine. Please help.",technical_support
+"Hi, Customs has held my international shipment for two weeks. Do I need to provide any documents to release it?",shipping
+"Hi there, My credit card shows a charge of $19 from you, but I cancelled my subscription on April 2. Why was I still billed? Thanks in advance.",billing
+"Hi, The integration with Outlook keeps disconnecting. I have to reauthorise it every morning. Please help.",technical_support
+"Hi, I was charged $250 twice for my Growth subscription this month. Please refund the duplicate charge. Thanks.",billing
+"Hi there, I created an account years ago with my personal email and now cannot merge it with my company account. Both use my name. Any help would be appreciated.",account_access
+I see a blank white screen after logging in on Edge. Clearing the cache did not fix it. Thank you!,technical_support
+"Hello, The dashboard widgets show 'no data' since this morning, but the underlying reports contain data when I open them directly. Please advise.",technical_support
+"Hi, I need to change the email address associated with my account from my old work email to a new one before I lose access. Please help.",account_access
+"Good morning, The 'sign in with Apple' button returns an error saying my organisation has not configured it, but our IT says it is set up. Thanks.",account_access
+"Hi, The calendar integration duplicates every event three times in Salesforce. Deleting the duplicates makes them reappear.",technical_support
+Tracking shows two separate packages for my order but I only received one. The second has no updates since it left your warehouse.,shipping
+"Hi, The delivery driver left my package in the rain by the gate instead of under the porch. The contents are water damaged.",shipping
+"Hi there, I need to deactivate the account of an employee who left, but I do not have the option in the admin panel. Thanks.",account_access
+"Two-factor codes by SMS arrive 15 minutes late, by which time they have expired. The authenticator app works fine. Thank you!",technical_support
+Can I switch my billing from monthly to yearly? I want to know the exact total before you charge my card. Thanks.,billing
+How large can my team be on the free plan before we need to upgrade? We are a small nonprofit with volunteers. Please help.,general
+"Good morning, Someone changed the email address on my account without my permission. I cannot access my account at all now.",account_access
+"Good morning, How do I get a refund for the annual plan? I bought it on last Friday and have not used the service since. Any help would be appreciated.",billing
+The calendar integration duplicates every event three times in Outlook. Deleting the duplicates makes them reappear. Any help would be appreciated.,technical_support
+"Hello support team, After entering my password the page just refreshes and asks for it again. This happens on Safari and the app. Please help.",account_access
+I am trying to log in with Apple single sign-on and it loops back to the login page every time. Thanks.,account_access
+We are a charity with limited budget. Do you have any case studies from similar organisations using your platform?,general
+"Hi there, My account says my email is already in use when I try to register, but the login page says no account exists for it. Thanks in advance.",account_access
+"Hi, How do I get a refund for the annual plan? I bought it on last Friday and have not used the service since. Please advise.",billing
+"Hello, Uploads fail at around 90 percent with the message 'network error', even on a wired connection. Files are about 40 MB. Please help.",technical_support
+Can I schedule my delivery for a specific day? Order #58204 keeps being attempted while I am at work. Thanks in advance.,shipping
+I downgraded from Basic to the free tier last week but was still charged $250 today. Please refund this. Please advise.,billing
+Video calls freeze after about ten minutes and then the whole browser tab becomes unresponsive on Edge.,technical_support
+"Hello, I need to deactivate the account of an employee who left, but I do not have the option in the admin panel.",account_access
+The delivery driver left my package in the rain by the gate instead of under the porch. The contents are water damaged. Thank you!,shipping
+"I signed up for the Team plan at $49 per month, but I am being billed $59.99. Please correct my billing. Any help would be appreciated.",billing
+I lost my recovery codes when my laptop was stolen. How can I regain access to my account securely? Thanks in advance.,account_access
+Part of my order is missing. The notebook set arrived but the mug that was in the same order never showed up. Thank you!,shipping
+Why did my subscription price increase from $120 to $89 without any notice? I never agreed to a price change. Please help.,billing
+"Hello support team, My login works on the website but the mobile app says my credentials are invalid. It is the same password. Thanks.",account_access
+"Hi, Customs has held my international shipment for two weeks. Do I need to provide any documents to release it? Please help.",shipping
+"Hello, I cannot log in since I got a new phone. The authenticator app was on my old device and I no longer have access to it. Any help would be appreciated.",account_access
+I forgot my password and the reset email never arrives. I have checked my spam folder several times since April 19. Thanks.,account_access
+Is there a way to try the premium features before buying? A short trial would help me convince my manager. Thank you!,general
+I received the wrong item in order #58204. I ordered the office chair in navy blue but received a completely different product. Please help.,shipping
+"Hi, Tracking shows two separate packages for my order but I only received one. The second has no updates since it left your warehouse. Thanks.",shipping
+How do I export all of my data if I decide to leave the platform in the future? I like to know before committing. Please advise.,general
+"Hi, I would like to update the contact person for our account's correspondence. Nothing is wrong, we just reorganised. Please help.",general
+"Hello support team, Two-factor codes by SMS arrive 15 minutes late, by which time they have expired. The authenticator app works fine.",technical_support
+"Good morning, My shipment has been stuck at the Denver distribution centre since April 2 according to tracking. Is it lost? Thanks.",shipping
+"Good morning, How large can my team be on the free plan before we need to upgrade? We are a small nonprofit with volunteers. Please help.",general
+"My credit card shows a charge of $120 from you, but I cancelled my subscription on March 14. Why was I still billed? Thanks in advance.",billing
+"I bought a gift subscription for my colleague but the receipt has my personal card details and wrong amount. The charge should have been 99 dollars, not 149.",billing
+"My order was split into three shipments without telling me, and I am being charged three separate delivery fees.",shipping
+"Good morning, The mobile app drains my battery in the background. It used 38 percent overnight on my Windows laptop without being opened.",technical_support
+"Hi there, My files are not syncing between my laptop and my phone. The desktop app shows 'sync pending' for two days now. Please advise.",technical_support
+"Good morning, I lost my recovery codes when my laptop was stolen. How can I regain access to my account securely? Thank you!",account_access
+"Hello, How large can my team be on the free plan before we need to upgrade? We are a small nonprofit with volunteers.",general
+Automatic renewal charged my card a day before the reminder email arrived. I would have cancelled if the reminder had come on time.,billing
+I need to change the email address associated with my account from my old work email to a new one before I lose access. Thanks.,account_access
+"Hi there, How do I get a refund for the annual plan? I bought it on last Tuesday and have not used the service since. Thanks.",billing
+The two-factor authentication codes are not being accepted even though the time on my phone is correct. Please help.,account_access
+"My account has been locked after too many login attempts, but I only entered my password once. Please unlock it. Thanks.",account_access
+Is there a way to try the premium features before buying? A short trial would help me convince my manager. Please help.,general
+My order #10482 was supposed to arrive on April 2 and the tracking has not updated in five days. Where is my package? Thanks in advance.,shipping
+"Hi, I paid extra for express delivery on order #20917 and it arrived four days late. I would like the shipping fee refunded. Please help.",shipping
+Someone changed the email address on my account without my permission. I cannot access my account at all now.,account_access
+"Hello, My payment failed three times but my bank says the money was taken. I see a pending charge of $250 on my statement.",billing
+"Good morning, When I export my data to CSV, the file is empty even though the dashboard shows over 200 records. Thank you!",technical_support
+"Hello, I need to return the monitor stand from order #58204 but the returns portal says my order number is not recognised.",shipping
+Our admin left the company and nobody else can access the admin console. We need to transfer account ownership.,account_access
+The login page rejects my password even though my password manager fills the same one that works on my phone's app.,account_access
+My payment failed three times but my bank says the money was taken. I see a pending charge of $29.99 on my statement. Please help.,billing
+"Good morning, The promo code NEWSLETTER15 did not apply at checkout and I was charged the full price of $120. Please adjust my invoice. Thanks in advance.",billing
+"Good morning, Part of my order is missing. The wireless keyboard arrived but the desk organiser that was in the same order never showed up.",shipping
+"Hi there, Does your company attend or sponsor any industry conferences this year? I would like to meet the team in person. Please advise.",general
+"Hello support team, Uploads fail at around 90 percent with the message 'network error', even on a wired connection. Files are about 40 MB. Any help would be appreciated.",technical_support
+Do you provide a sandbox or demo environment for evaluation? Procurement requires us to test before any purchase discussion.,general
+Please update the billing address on my account and reissue last month's invoice with the new details.,billing
+"Your website is extremely slow today. Pages take over 30 seconds to load on Edge, while other sites work fine. Thanks.",technical_support
+"Hi there, The calendar integration duplicates every event three times in Google Calendar. Deleting the duplicates makes them reappear.",technical_support
+"Hi, Can you tell me more about the differences between the Business and Pro plans? I am deciding which one fits our team. Thank you!",general
+The promo code NEWSLETTER15 did not apply at checkout and I was charged the full price of $250. Please adjust my invoice.,billing
+"Our whole team's shared workspace disappeared from the sidebar this morning. Individual accounts are fine. This is urgent, we cannot work.",technical_support
+"Hello, Do you have a user guide or documentation for the template gallery feature? I want to learn how to use it properly.",general
+"Hello, My invoice for May includes seats for two employees who left the company in March. Please credit our account.",billing
+Since yesterday's update the desktop app shows a spinning loader forever on the projects page. I am on macOS 14 and have reinstalled twice.,technical_support
+"I was double charged for the same subscription in March and April. Two charges of 49 dollars each month. This is unacceptable, please refund all duplicates immediately.",billing
+"Hi there, The delivery driver left my package in the rain by the gate instead of under the porch. The contents are water damaged.",shipping
+"Hello support team, The gift I ordered for a birthday on last Friday still has not arrived, although I ordered it ten days ago with standard delivery. Any help would be appreciated.",shipping
+Can I schedule my delivery for a specific day? Order #61039 keeps being attempted while I am at work. Thanks in advance.,shipping
+"My account was created by my employer, they deactivated my email, and now I cannot access the personal data I stored in the account.",account_access
+"Hello, My login works on the website but the mobile app says my credentials are invalid. It is the same password.",account_access
+"Hello support team, Tracking shows two separate packages for my order but I only received one. The second has no updates since it left your warehouse. Any help would be appreciated.",shipping
+"Hello, Notifications stopped arriving on my Pixel 8 yesterday. App permissions are all enabled and battery optimisation is off.",technical_support
+I paid extra for express delivery on order #61039 and it arrived four days late. I would like the shipping fee refunded. Please advise.,shipping
+"Hello, There is an unknown charge of $250 from your company on my corporate card. I need an itemised receipt to expense it. Thank you!",billing
+"Hi, The courier attempted delivery while I was home all day. Now they want me to collect it from a depot 20 miles away. Any help would be appreciated.",shipping
+The app works in Chrome but in Firefox the login button does not respond at all. Several of our staff only use Firefox.,technical_support
+Accessibility issue: the new colour scheme makes the text unreadable with a screen reader's high contrast mode enabled.,technical_support
+Notifications stopped arriving on my Pixel 8 yesterday. App permissions are all enabled and battery optimisation is off. Please advise.,technical_support
+The replacement you sent for my damaged item was delivered to my billing address instead of my shipping address and I cannot collect it.,shipping
+There is an unknown charge of $120 from your company on my corporate card. I need an itemised receipt to expense it. Please help.,billing
+I downgraded from Business to the free tier last week but was still charged $19 today. Please refund this. Thank you!,billing
+"Hi there, I cannot attach files larger than 5 MB even though my plan says the limit is 100 MB. The error message is misleading. Please help.",technical_support
+"Hi there, I downgraded from Pro to the free tier last week but was still charged $79 today. Please refund this. Please help.",billing
+"Hi there, Why did my subscription price increase from $79 to $39 without any notice? I never agreed to a price change. Please advise.",billing
+Tracking updated to 'delivered to front desk' but my building has no front desk. Nobody signed for it. This is the second lost parcel this year.,shipping
+"Hi, The dashboard widgets show 'no data' since this morning, but the underlying reports contain data when I open them directly. Please help.",technical_support
+"Hi there, Tracking shows two separate packages for my order but I only received one. The second has no updates since it left your warehouse. Please help.",shipping
+"Good morning, Does your company attend or sponsor any industry conferences this year? I would like to meet the team in person.",general
+"Hello, My files are not syncing between my laptop and my phone. The desktop app shows 'sync pending' for two days now. Please help.",technical_support
+What are your customer support opening hours over the holiday period? I could not find them on your website. Please advise.,general
+"Hello, My order #90255 was marked as 'out for delivery' three days in a row and each evening it goes back to the depot. Any help would be appreciated.",shipping
+"Hello support team, What new features are on your roadmap for this year? We are evaluating tools for a long-term commitment.",general
+Your webinar last week on workflow automation was really useful. Will the recording be shared with attendees?,general
+"Hi there, I signed up for the Pro plan at €45 per month, but I am being billed $59.99. Please correct my billing. Thank you!",billing
+"Hello support team, I am interested in a career at your company. Where can I find your current job openings and application process? Please advise.",general
+"Hi there, I cannot remember which email I used to sign up. I have subscriptions receipts in two different inboxes.",account_access
+"Good morning, My package arrived damaged. The box was crushed and the desk lamp inside is cracked. I need a replacement or a refund. Any help would be appreciated.",shipping
+"Hi there, Drag and drop stopped working in the board view. I can only move cards using the menu since the May 6 update.",technical_support
+How do I export all of my data if I decide to leave the platform in the future? I like to know before committing. Any help would be appreciated.,general
+"Hello support team, I created an account years ago with my personal email and now cannot merge it with my company account. Both use my name. Any help would be appreciated.",account_access
+I paid $29.99 by bank transfer on last Tuesday but my account still shows an overdue balance. Please apply my payment. Please help.,billing
+Can someone from billing call me? I have been going back and forth over email for two weeks about a refund of 230 dollars that never arrived.,billing
+The fragile item I ordered was shipped in a plain envelope with no padding and arrived shattered. Photos attached to my earlier email.,shipping
+"Hello, The courier attempted delivery while I was home all day. Now they want me to collect it from a depot 20 miles away. Please advise.",shipping
+"Good morning, The mobile app crashes every time I try to open the reports page on my iPhone 15. It started after the update on April 19. Thanks.",technical_support
+The mobile app crashes every time I try to upload a file on my iPhone 13. It started after the update on March 3.,technical_support
+"Hi, When I export my data to Excel, the file is empty even though the dashboard shows over 200 records. Thank you!",technical_support
+"Hello support team, Do you offer refunds if I cancel in the middle of a billing cycle? I was charged $29.99 on the 28th of last month and want to cancel.",billing
+"My credit card shows a charge of £59 from you, but I cancelled my subscription on last Friday. Why was I still billed? Please help.",billing
+"My credit card shows a charge of £59 from you, but I cancelled my subscription on last Tuesday. Why was I still billed? Thank you!",billing
+I am interested in a career at your company. Where can I find your current job openings and application process?,general
+"Hi there, I need to change the email address associated with my account from my old work email to a new one before I lose access. Please advise.",account_access
+There is an unknown charge of $19 from your company on my corporate card. I need an itemised receipt to expense it. Thank you!,billing
+I need a copy of my invoice for January for our accounting department. The billing portal only shows the current month. Thank you!,billing
+"Hello, I read about your company in an article and wanted to ask whether you have a partnership or reseller programme. Any help would be appreciated.",general
+Our admin left the company and nobody else can access the admin console. We need to transfer account ownership. Any help would be appreciated.,account_access
+"I found your company through a podcast sponsorship. Is there an offer code for listeners, or a page describing the deal?",general
+My order #61039 was marked as 'out for delivery' three days in a row and each evening it goes back to the depot. Please help.,shipping
+Do you offer onboarding or training sessions for new teams? We are rolling this out to about 30 people.,general
+"Hi there, My order #61039 was marked as 'out for delivery' three days in a row and each evening it goes back to the depot.",shipping
+"I was charged for overnight shipping but the order did not even leave your facility for two days. The delay was on your side, not the courier's.",shipping
+"Hi, Notifications stopped arriving on my iPhone 15 yesterday. App permissions are all enabled and battery optimisation is off.",technical_support
+"Hello, After entering my password the page just refreshes and asks for it again. This happens on Safari and the app. Please advise.",account_access
+I am writing a review of tools in your category for our company blog. Could you share your latest product information sheet? Thanks in advance.,general
+"Good morning, Is there a way to try the premium features before buying? A short trial would help me convince my manager.",general
+"Hello support team, The delivery driver left my package in the rain by the gate instead of under the porch. The contents are water damaged. Thanks in advance.",shipping
+I cannot attach files larger than 5 MB even though my plan says the limit is 100 MB. The error message is misleading. Thanks.,technical_support
+"Hello support team, Tracking shows two separate packages for my order but I only received one. The second has no updates since it left your warehouse. Thanks in advance.",shipping
+"Hi there, The search function does not find documents I uploaded last week, even when I search for the exact file name.",technical_support
+"Hello, My account was suspended for 'suspicious activity' but I have only ever logged in from my home in Texas. Thanks in advance.",account_access
+"Hello support team, Can I schedule my delivery for a specific day? Order #20917 keeps being attempted while I am at work.",shipping
+"Hi there, The dashboard widgets show 'no data' since this morning, but the underlying reports contain data when I open them directly. Please help.",technical_support
+What new features are on your roadmap for this year? We are evaluating tools for a long-term commitment. Thanks in advance.,general
+I noticed your help centre articles are only in English. Are there plans to translate them into Spanish or German?,general
+"Hello support team, I read about your company in an article and wanted to ask whether you have a partnership or reseller programme. Please advise.",general
+"Good morning, Can I change the delivery address for order #10482? I moved house last week and it is still going to my old address. Thanks.",shipping
+I have been locked out of my account for three days. Password reset emails arrive six hours late and the links are already expired. Please help urgently.,account_access
+My order #33120 was marked as 'out for delivery' three days in a row and each evening it goes back to the depot.,shipping
+"My credit card shows a charge of $250 from you, but I cancelled my subscription on May 6. Why was I still billed?",billing
+"Hello, Customs has held my international shipment for two weeks. Do I need to provide any documents to release it?",shipping
+I cannot remember which email I used to sign up. I have subscriptions receipts in two different inboxes.,account_access
+"Good morning, My account says my email is already in use when I try to register, but the login page says no account exists for it. Thanks in advance.",account_access
+"Hi there, I verified my identity with my ID last week and my account is still restricted. When will full access be restored? Thanks in advance.",account_access
+"Hello, I verified my identity with my ID last week and my account is still restricted. When will full access be restored? Any help would be appreciated.",account_access
+"Good morning, I am interested in a career at your company. Where can I find your current job openings and application process? Thank you!",general
+Just browsing at this stage — do you publish a comparison of your pricing tiers anywhere? The website only shows two of the three plans in the table.,general
+"I keep getting logged out every few minutes, even mid-task. Other colleagues on the same network do not have this issue.",account_access
+The password reset link says it has expired even though I clicked it within two minutes of receiving the email. Any help would be appreciated.,account_access
+"I signed up for the Basic plan at $120 per month, but I am being billed $300. Please correct my billing.",billing
+"Good morning, Please stop charging my old card ending in 3356. I updated my payment method but the old card was billed €45. Thank you!",billing
+"Hi there, Uploads fail at around 90 percent with the message 'network error', even on a wired connection. Files are about 40 MB.",technical_support
+"Hello support team, I verified my identity with my ID last week and my account is still restricted. When will full access be restored? Thanks in advance.",account_access
+I paid extra for express delivery on order #58204 and it arrived four days late. I would like the shipping fee refunded. Any help would be appreciated.,shipping
+"Good morning, I need a copy of my invoice for January for our accounting department. The billing portal only shows the current month.",billing
+I am writing a review of tools in your category for our company blog. Could you share your latest product information sheet? Thank you!,general
+"The estimated delivery date keeps moving. It was the 12th, then two days later, and now no date is shown at all.",shipping
+"Hello support team, I read about your company in an article and wanted to ask whether you have a partnership or reseller programme. Thanks in advance.",general
+"I need to dispute a charge. I never authorised the renewal of the annual plan and the 1,188 dollar charge has put my account over its limit.",billing
+"Hello, When I export my data to PDF, the file is empty even though the dashboard shows over 200 records. Thank you!",technical_support
+Does your company attend or sponsor any industry conferences this year? I would like to meet the team in person. Thank you!,general
+"Hello, Uploads fail at around 90 percent with the message 'network error', even on a wired connection. Files are about 40 MB. Any help would be appreciated.",technical_support
+Customs has held my international shipment for two weeks. Do I need to provide any documents to release it?,shipping
+The bulk edit feature stopped working after the latest update. Clicking the button does nothing at all.,technical_support
+"Hello, My credit card shows a charge of $120 from you, but I cancelled my subscription on March 14. Why was I still billed?",billing
+I am writing a review of tools in your category for our company blog. Could you share your latest product information sheet?,general
+"Good morning, Tracking shows two separate packages for my order but I only received one. The second has no updates since it left your warehouse.",shipping
+My order #77410 was supposed to arrive on May 6 and the tracking has not updated in five days. Where is my package? Please advise.,shipping
+The courier attempted delivery while I was home all day. Now they want me to collect it from a depot 20 miles away. Thank you!,shipping
+"Hello support team, Someone changed the email address on my account without my permission. I cannot access my account at all now.",account_access
+My login works on the website but the mobile app says my credentials are invalid. It is the same password. Thank you!,account_access
+"Good morning, There is an unknown charge of $29.99 from your company on my corporate card. I need an itemised receipt to expense it.",billing
+"I need to deactivate the account of an employee who left, but I do not have the option in the admin panel. Thank you!",account_access
+"Hello, The tax on my invoice looks wrong. I am based in Oregon and the VAT rate applied does not match. Can billing review this?",billing
+"Hello, What new features are on your roadmap for this year? We are evaluating tools for a long-term commitment. Please advise.",general
+We need invoices from the last 6 months resent to our new finance email. The previous bookkeeper left and we cannot access the billing portal history.,billing
+"Hello support team, My invoice for March includes seats for two employees who left the company in April. Please credit our account.",billing
+The tax on my invoice looks wrong. I am based in Texas and the VAT rate applied does not match. Can billing review this?,billing
+"Hello, I am writing a review of tools in your category for our company blog. Could you share your latest product information sheet?",general
+"Hi there, After entering my password the page just refreshes and asks for it again. This happens on Safari and the app. Please advise.",account_access
+"Hello, I lost my recovery codes when my laptop was stolen. How can I regain access to my account securely? Any help would be appreciated.",account_access
+"Hi there, I downgraded from Team to the free tier last week but was still charged $29.99 today. Please refund this. Please help.",billing
+"Hello, My files are not syncing between my laptop and my phone. The desktop app shows 'sync pending' for two days now. Thank you!",technical_support
+"Good morning, The desktop app crashes every time I try to start a video call on my Pixel 8. It started after the update on March 14. Thank you!",technical_support
+"Good morning, The calendar integration duplicates every event three times in Outlook. Deleting the duplicates makes them reappear. Thanks.",technical_support
+"Hi there, I paid extra for express delivery on order #58204 and it arrived four days late. I would like the shipping fee refunded. Thank you!",shipping
+Is there a discount for students or educational institutions? I teach at a university and would like to use your tool in class. Thanks.,general
+Printing invoices from the app produces garbled characters instead of our company logo and address. PDFs downloaded from the web version are fine.,technical_support
+"Hello support team, Do you offer refunds if I cancel in the middle of a billing cycle? I was charged $120 on last Tuesday and want to cancel. Thanks.",billing
+"Hello support team, How do I get a refund for the annual plan? I bought it on May 6 and have not used the service since.",billing
+My payment failed three times but my bank says the money was taken. I see a pending charge of $19 on my statement. Please help.,billing
+"Good morning, The dashboard widgets show 'no data' since this morning, but the underlying reports contain data when I open them directly. Please help.",technical_support
+I downgraded from Business to the free tier last week but was still charged $79 today. Please refund this.,billing
+"Hello, Video calls freeze after about ten minutes and then the whole browser tab becomes unresponsive on Safari. Any help would be appreciated.",technical_support
+"Hi there, The API returns a 500 error when I POST to the /reports endpoint with more than 50 items. Smaller requests work. Thank you!",technical_support
+The password reset link says it has expired even though I clicked it within two minutes of receiving the email. Thanks in advance.,account_access
+"Hi, I keep getting payment reminder emails saying my card was declined, but the charge of £59 went through on March 3. Thanks.",billing
+The integration with Slack keeps disconnecting. I have to reauthorise it every morning. Please advise.,technical_support
+"Hi there, I ordered two of the desk lamp and only one was in the box, though the packing slip says two were shipped. Thanks in advance.",shipping
+"Hello support team, I cannot attach files larger than 5 MB even though my plan says the limit is 100 MB. The error message is misleading.",technical_support
+"Hello, I forgot my password and the reset email never arrives. I have checked my spam folder several times since March 3. Thanks.",account_access
+"Hi, Can you recommend which plan would suit a freelance designer working alone? I do not need team features.",general
+"Hello support team, What new features are on your roadmap for this year? We are evaluating tools for a long-term commitment. Any help would be appreciated.",general
+Can I suggest a feature? It would be great if the custom fields could also handle recurring schedules. Any help would be appreciated.,general
+"Hi there, The bulk edit feature stopped working after the latest update. Clicking the button does nothing at all.",technical_support
+The courier attempted delivery while I was home all day. Now they want me to collect it from a depot 20 miles away.,shipping
+"Hi there, Can I switch my billing from monthly to yearly? I want to know the exact total before you charge my card.",billing
+"Hi, I keep getting payment reminder emails saying my card was declined, but the charge of $29.99 went through on April 2. Please help.",billing
+"I would like to update the contact person for our account's correspondence. Nothing is wrong, we just reorganised. Thanks.",general
+"Hi, I received the wrong item in order #20917. I ordered the wireless keyboard in navy blue but received a completely different product. Please help.",shipping
+Love the product. One small suggestion: a dark mode for the dashboard would make long sessions much easier on the eyes.,general
+I see a blank white screen after logging in on Edge. Clearing the cache did not fix it.,technical_support
+"Hello support team, I was charged €45 twice for my Basic subscription this month. Please refund the duplicate charge.",billing
+"Hi, My account says my email is already in use when I try to register, but the login page says no account exists for it. Any help would be appreciated.",account_access
+"Two-factor codes by SMS arrive 15 minutes late, by which time they have expired. The authenticator app works fine. Any help would be appreciated.",technical_support
+"Uploads fail at around 90 percent with the message 'network error', even on a wired connection. Files are about 40 MB. Any help would be appreciated.",technical_support
+Can I switch my billing from monthly to yearly? I want to know the exact total before you charge my card. Please advise.,billing
+"Two-factor codes by SMS arrive 15 minutes late, by which time they have expired. The authenticator app works fine. Thanks.",technical_support
+"Hello support team, I need to return the phone case from order #58204 but the returns portal says my order number is not recognised. Thanks.",shipping
+"Hi, My account says my email is already in use when I try to register, but the login page says no account exists for it.",account_access
+"Hello support team, I need to deactivate the account of an employee who left, but I do not have the option in the admin panel. Any help would be appreciated.",account_access
+"Good morning, The desktop app crashes every time I try to edit my document on my Pixel 8. It started after the update on the 28th of last month.",technical_support
+I cannot attach files larger than 5 MB even though my plan says the limit is 100 MB. The error message is misleading.,technical_support
+"Hello support team, I cannot log in since I got a new phone. The authenticator app was on my old device and I no longer have access to it. Thank you!",account_access
+"Hello, What new features are on your roadmap for this year? We are evaluating tools for a long-term commitment.",general
+"Good morning, My account was suspended for 'suspicious activity' but I have only ever logged in from my home in Colorado. Any help would be appreciated.",account_access
+Our admin left the company and nobody else can access the admin console. We need to transfer account ownership. Please help.,account_access
+"Hello, My order #58204 was marked as 'out for delivery' three days in a row and each evening it goes back to the depot. Thanks in advance.",shipping
+"Hello, I signed up for the Basic plan at $29.99 per month, but I am being billed $39. Please correct my billing.",billing
+"Hi, I was charged €45 twice for my Growth subscription this month. Please refund the duplicate charge.",billing
+I was charged $79 twice for my Team subscription this month. Please refund the duplicate charge. Thank you!,billing
+Please update the billing address on my account and reissue last month's invoice with the new details. Thank you!,billing
+"My subscription box for this month never arrived, although the payment was taken and the order shows as fulfilled in my account.",shipping
+"Good morning, I read about your company in an article and wanted to ask whether you have a partnership or reseller programme.",general
+The calendar integration duplicates every event three times in Zapier. Deleting the duplicates makes them reappear.,technical_support
+"Hello, The two-factor authentication codes are not being accepted even though the time on my phone is correct. Please advise.",account_access
+"Hello, I need to change the email address associated with my account from my old work email to a new one before I lose access. Please advise.",account_access
+"Hi, How do I get a refund for the annual plan? I bought it on the 12th and have not used the service since.",billing
+I am trying to log in with Google single sign-on and it loops back to the login page every time. Thanks.,account_access
+I am the account owner but the recovery flow sends the code to a phone number I changed two years ago. There is no alternative option offered.,account_access
+"Good morning, How do I export all of my data if I decide to leave the platform in the future? I like to know before committing.",general
+Please stop charging my old card ending in 8709. I updated my payment method but the old card was billed $79. Any help would be appreciated.,billing
+Do you offer onboarding or training sessions for new teams? We are rolling this out to about 30 people. Thanks in advance.,general
+The promo code LOYAL20 did not apply at checkout and I was charged the full price of $120. Please adjust my invoice. Thanks.,billing
+The desktop app crashes every time I try to open a project on my MacBook Air. It started after the update on the 12th. Please help.,technical_support
+Do you offer refunds if I cancel in the middle of a billing cycle? I was charged $29.99 on May 6 and want to cancel. Thanks.,billing
+"Hello, I cannot log in since I got a new phone. The authenticator app was on my old device and I no longer have access to it. Please advise.",account_access
+"The verification SMS never reaches my number. Calls come through fine, and other services' texts arrive instantly.",account_access
+Please stop charging my old card ending in 4421. I updated my payment method but the old card was billed $250. Thanks.,billing
+My company is being acquired and our tooling will be reviewed. Can you send an overview document I can share with the new IT team?,general
+I see a blank white screen after logging in on Chrome. Clearing the cache did not fix it. Thanks.,technical_support
+"Hello support team, The estimated delivery date keeps moving. It was the 28th of last month, then the 20th, and now no date is shown at all. Thanks.",shipping
+I was charged $250 twice for my Business subscription this month. Please refund the duplicate charge. Please advise.,billing
+I need the delivery held at the depot instead because I will be travelling. The tracking link does not give me that option.,shipping
+I cannot log in since I got a new phone. The authenticator app was on my old device and I no longer have access to it.,account_access
+Part of my order is missing. The desk lamp arrived but the wireless mouse that was in the same order never showed up.,shipping
+"My return was received by your warehouse on last Tuesday according to tracking, but I have heard nothing about my refund or exchange. Please help.",shipping
+I verified my identity with my ID last week and my account is still restricted. When will full access be restored?,account_access
+The mobile app drains my battery in the background. It used 38 percent overnight on my Pixel 8 without being opened. Thank you!,technical_support
+"Good morning, Can I change the delivery address for order #20917? I moved house last week and it is still going to my old address. Thanks in advance.",shipping
+"Hi there, When I export my data to Excel, the file is empty even though the dashboard shows over 200 records.",technical_support
+Do you have a user guide or documentation for the custom fields feature? I want to learn how to use it properly.,general
+"A colleague shared their login with me while they were on leave and now both our accounts are flagged. I need mine restored, I did nothing wrong.",account_access
+"We migrated to a new identity provider and half the team gets 'user not found' when signing in, even though their accounts exist.",account_access
+"Hi there, How do I get a refund for the annual plan? I bought it on last Tuesday and have not used the service since.",billing
+"Good morning, The delivery driver left my package in the rain by the gate instead of under the porch. The contents are water damaged. Thank you!",shipping
+"Three delivery attempts were supposedly made, but my doorbell camera shows nobody came to the door at those times.",shipping
+What are your customer support opening hours over the holiday period? I could not find them on your website.,general
+"Hello, I need a copy of my invoice for March for our accounting department. The billing portal only shows the current month.",billing
+"Uploads fail at around 90 percent with the message 'network error', even on a wired connection. Files are about 40 MB. Please help.",technical_support
+"Hi, The integration with Slack keeps disconnecting. I have to reauthorise it every morning. Any help would be appreciated.",technical_support
+I paid $49 by bank transfer on March 3 but my account still shows an overdue balance. Please apply my payment. Please help.,billing
+"Hello, The gift I ordered for a birthday on the 28th of last month still has not arrived, although I ordered it ten days ago with standard delivery.",shipping
+"Hi there, I was charged £59 twice for my Starter subscription this month. Please refund the duplicate charge. Thanks.",billing
+Video calls freeze after about ten minutes and then the whole browser tab becomes unresponsive on Safari. Please help.,technical_support
+"Good morning, I paid extra for express delivery on order #45771 and it arrived four days late. I would like the shipping fee refunded. Please advise.",shipping
+"Hello support team, The two-factor authentication codes are not being accepted even though the time on my phone is correct.",account_access
+"Hello support team, My login works on the website but the mobile app says my credentials are invalid. It is the same password. Thanks in advance.",account_access
+"Hi, My account was suspended for 'suspicious activity' but I have only ever logged in from my home in Colorado.",account_access
+"When two people edit the same document, one person's changes overwrite the other's instead of merging. We lost a whole section yesterday.",technical_support
+Part of my order is missing. The wireless keyboard arrived but the desk organiser that was in the same order never showed up.,shipping
+"Hi there, Do you offer onboarding or training sessions for new teams? We are rolling this out to about 30 people. Thanks.",general
+"Hi there, My files are not syncing between my laptop and my phone. The desktop app shows 'sync pending' for two days now.",technical_support
+"Hello, Do you offer onboarding or training sessions for new teams? We are rolling this out to about 30 people. Thank you!",general
+"Good morning, I cannot remember which email I used to sign up. I have subscriptions receipts in two different inboxes.",account_access
+I just wanted to say your time tracking feature is excellent. It has saved our team hours every week. Keep it up! Thanks in advance.,general
+"Uploads fail at around 90 percent with the message 'network error', even on a wired connection. Files are about 40 MB.",technical_support
+"Hello support team, I need to change the email address associated with my account from my old work email to a new one before I lose access. Please advise.",account_access
+"Hi there, I am writing a review of tools in your category for our company blog. Could you share your latest product information sheet?",general
+I paid extra for express delivery on order #45771 and it arrived four days late. I would like the shipping fee refunded.,shipping
+"Good morning, Your webinar last week on workflow automation was really useful. Will the recording be shared with attendees?",general
+"Hi there, Uploads fail at around 90 percent with the message 'network error', even on a wired connection. Files are about 40 MB. Thanks.",technical_support
+"Hello support team, The search function does not find documents I uploaded last week, even when I search for the exact file name.",technical_support
+I cannot remember which email I used to sign up. I have subscriptions receipts in two different inboxes. Please help.,account_access
+Tracking shows two separate packages for my order but I only received one. The second has no updates since it left your warehouse. Thanks in advance.,shipping
+"Hello, Can I change the delivery address for order #10482? I moved house last week and it is still going to my old address.",shipping
+"Hi there, Do you offer onboarding or training sessions for new teams? We are rolling this out to about 30 people.",general
+What new features are on your roadmap for this year? We are evaluating tools for a long-term commitment. Please advise.,general
+"Hi, I was charged €45 twice for my Business subscription this month. Please refund the duplicate charge.",billing
+"Hello support team, My credit card shows a charge of $49 from you, but I cancelled my subscription on March 3. Why was I still billed?",billing
+"Hello support team, The courier attempted delivery while I was home all day. Now they want me to collect it from a depot 20 miles away. Thanks.",shipping
+"The search function does not find documents I uploaded last week, even when I search for the exact file name. Thanks in advance.",technical_support
